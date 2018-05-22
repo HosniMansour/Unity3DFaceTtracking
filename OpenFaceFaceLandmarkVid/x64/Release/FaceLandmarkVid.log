@@ -1,0 +1,10 @@
+﻿  FaceLandmarkVid.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(200): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+  d:\openface\openface\lib\3rdparty\dlib\include\dlib\image_processing/shape_predictor.h(710): note: see reference to function template instantiation 'std::pair<unsigned long,unsigned long>::pair<int,unsigned __int64,void,0>(std::pair<int,unsigned __int64> &&) noexcept' being compiled
+  d:\openface\openface\lib\3rdparty\dlib\include\dlib\image_processing/shape_predictor.h(710): note: see reference to function template instantiation 'std::pair<unsigned long,unsigned long>::pair<int,unsigned __int64,void,0>(std::pair<int,unsigned __int64> &&) noexcept' being compiled
+  0 File(s) copied
+     Creating library D:\OpenFace\OpenFace\x64\Release\FaceLandmarkVid.lib and object D:\OpenFace\OpenFace\x64\Release\FaceLandmarkVid.exp
+  Generating code
+  Finished generating code
+  FaceLandmarkVid.vcxproj -> D:\OpenFace\OpenFace\x64\Release\FaceLandmarkVid.exe
+  FaceLandmarkVid.vcxproj -> D:\OpenFace\OpenFace\x64\Release\FaceLandmarkVid.pdb (Full PDB)
